@@ -1,5 +1,6 @@
 ul#horizontal-list {
     list-style: none;
+    margin-left: 70px;
     }
 ul#horizontal-list li {
     display: inline;
@@ -12,7 +13,8 @@ ul#horizontal-list li {
     position: relative;
     /* text-align: center; */
     color: white;
-    margin-left: 40px;
+    margin-left: 5.5%;
+    padding-bottom: 30px;
 }
 .top-left-text {
     position: absolute;
@@ -103,16 +105,16 @@ a {
 }
 .apage {
     font-family: "BPG Nino Mtavruli Bold", sans-serif;
-    display: inline;
+    display: inline-block;
+    margin-right: 9px;
+    padding-top: 6px;
+    margin-bottom: 20px;
 }
 .a3 {
     font-family: "BPG Nino Mtavruli", sans-serif;
 }
 .mlist {
     list-style: none;
-    display: inline-block;
-    
- 
 }
 .html {
     margin-left: 40px;
