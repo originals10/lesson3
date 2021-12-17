@@ -103,7 +103,21 @@ a {
 }
 .apage {
     font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    display: inline;
 }
 .a3 {
     font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.mlist {
+    list-style: none;
+    display: inline-block;
+    
+ 
+}
+.html {
+    margin-left: 40px;
+    float:inline-start;
+    margin-right: 40px;
+    
+    
 }
