@@ -131,3 +131,24 @@ a {
     font-family: 'roboto-regular';
     src: url('../fonts/Robot-Regular.ttf'); 
 }
+a:focus {
+	color:#9124d8 ;
+}
+a:hover {
+	color: #1de5c3;
+}
+.nwa {
+    background-color: #F2F2F2;
+    display: inline-block;
+	width: 532px;
+    height: 225px;
+    margin-left: 5.5%;
+}
+.nwa1 {
+    font-family: 'roboto-regular';
+    color:#3D58A6;
+    font-size: 22px;
+}
+.nwa p {
+    width:100%;
+}
