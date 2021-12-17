@@ -120,6 +120,14 @@ a {
     margin-left: 40px;
     float:inline-start;
     margin-right: 40px;
-    
-    
+}
+.cp1 {
+    margin-left: 5.5%;
+    font-size: 24px;
+    font-family: 'roboto-regular';
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'roboto-regular';
+    src: url('../fonts/Robot-Regular.ttf'); 
 }
