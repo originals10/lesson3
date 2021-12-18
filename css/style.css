@@ -60,11 +60,16 @@ address {
     padding-top: 9%;
     padding-bottom: 9%;
 }
+.ifrm{
+    margin-left:400px;
+    display:block;
+    width: 60%;
 
+}
 .adddiv {
     background-color: #E6E6E6;
     height: 30%;
-    display: inline-block;
+    display: inline;
 }
 
 h3 {
@@ -101,6 +106,7 @@ a {
 .artm {
     font-family: "BPG Ingiri Arial", sans-serif;
     font-size: 16px;
+    margin-left: 330px;
 }
 
 #artn {
@@ -154,7 +160,7 @@ a:hover {
     font-family: 'roboto-regular';
     color:#3D58A6;
     font-size: 22px;
-    display: inline-block;
+    margin-top: 0px;
     margin-left: 20px;
 }
 .nwa img {
@@ -170,6 +176,6 @@ a:hover {
     height: 125px;
 }
 .nwimg {
-    
+    margin-top: 20px;
     float:inline-start;
 }
