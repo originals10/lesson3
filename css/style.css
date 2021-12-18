@@ -1,7 +1,7 @@
 ul#horizontal-list {
     list-style: none;
     margin-left: 70px;
-    margin-top: 50px;
+    margin-top: 100px;
     }
 ul#horizontal-list li {
     display: inline;
@@ -57,19 +57,17 @@ a[href^="tel"]::before {
 address { 
     margin-left: 5.5%;
     margin-right: auto;
-    padding-top: 9%;
-    padding-bottom: 9%;
+    padding-top: 4%;
+    padding-bottom: 5%;
 }
-.ifrm{
-    margin-left:400px;
-    display:block;
-    width: 60%;
 
-}
+.w3-display-middle{position:relative;top:50%;left:50%;transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%)}
+
 .adddiv {
     background-color: #E6E6E6;
     height: 30%;
-    display: inline;
+    width: 100%;
+    display: inline-block;
 }
 
 h3 {
