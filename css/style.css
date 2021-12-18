@@ -1,6 +1,7 @@
 ul#horizontal-list {
     list-style: none;
     margin-left: 70px;
+    margin-top: 50px;
     }
 ul#horizontal-list li {
     display: inline;
@@ -54,11 +55,16 @@ a[href^="tel"]::before {
 
 
 address { 
-    text-align: center;
-    margin-left: auto;
+    margin-left: 5.5%;
     margin-right: auto;
     padding-top: 9%;
     padding-bottom: 9%;
+}
+
+.adddiv {
+    background-color: #E6E6E6;
+    height: 30%;
+    display: inline-block;
 }
 
 h3 {
@@ -141,14 +147,29 @@ a:hover {
     background-color: #F2F2F2;
     display: inline-block;
 	width: 532px;
-    height: 225px;
+    height: 180px;
     margin-left: 5.5%;
 }
 .nwa1 {
     font-family: 'roboto-regular';
     color:#3D58A6;
     font-size: 22px;
+    display: inline-block;
+    margin-left: 20px;
 }
-.nwa p {
-    width:100%;
+.nwa img {
+    float:inline-start;
+    margin-left: 20px;
+}
+.nwa11 {
+    font-family: 'roboto-regular';
+    font-size: 18px;
+    display: inline-block;
+    margin-left: 20px;
+    width: 380px;
+    height: 125px;
+}
+.nwimg {
+    
+    float:inline-start;
 }
